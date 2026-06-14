@@ -1,9 +1,5 @@
 # Guide Complet de la Plateforme Vercel : Offre Technique, Tarification et Cas Pratique de Déploiement
 
-Ce document est conçu comme un support pédagogique et pratique destiné aux étudiants en architectures web et ingénierie logicielle. Il présente de manière exhaustive l'écosystème de la plateforme Vercel en 2026, décrypte sa structure tarifaire et propose un cas d'usage complet permettant de mettre en œuvre un déploiement moderne avec intégration de services d'intelligence artificielle.
-
----
-
 ## 1. Présentation de l'Offre Technique et de l'Architecture Vercel
 
 Initialement reconnue comme la plateforme native de l'écosystème Next.js, Vercel s'est transformée pour devenir un environnement d'exécution global et une plateforme de développement full-stack assistée par IA. Elle prend en charge une large variété de frameworks frontend (React, Vue, Angular, Svelte, Astro, Nuxt) ainsi que des architectures de backend léger.
